@@ -19,8 +19,8 @@ A simple CLI-based user management system built using Python. This project allow
 
 ## 📂 Project Structure
 user-management-system/
- ├── user_system.py
- └── users.txt
+     user_system.py
+     users.txt
 
 ## 📌 Sample Workflow
 1. Select Register and create a user  
